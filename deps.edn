@@ -27,7 +27,7 @@
 
  :deps
  ;; Clojure standard library
- {org.clojure/clojure {:mvn/version "1.10.1"}}
+ {org.clojure/clojure {:mvn/version "1.10.3"}}
 
  ;; End of: Main dependencies
  ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
